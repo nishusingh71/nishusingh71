@@ -1,16 +1,52 @@
-### Hi there 👋
+## Hi, I'm [Nishu Singh!] 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishusingh&label=Views&color=blue&style=plastic" alt="nishusingh" /> </p>
+<a href="https://twitter.com/Nishusi46516120">
+  <img align="left" alt="Nishu Singh Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/nishu-singh-a530a0171/">
+  <img align="left" alt="Nishu Singh Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/nishusingh71">
+  <img align="left" alt="Nishu Singh Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://instagram.com/androcoding/">
+  <img align="left" alt="Androcoding Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/androcoding/">
+  <img align="left" alt="Androcoding Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCaDEFtaLo7SVQjizR31e2tg">
+  <img align="left" alt="Androcoding Tutorial Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
 
-<!--
-**nishusingh71/nishusingh71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+<br/>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Youtube Channel & personal Project.
+- 🌱 I’m currently learning Java,kotlin & Dart.
+- 👯 I’m looking to collaborate on Instagram & Youtube.
+- 🤔 I’m looking for help with Sharing Projects with others.
+- 💬 Ask me about Android & Flutter.
+- 📫 How to reach me: [Instagram-@androcoding](https://www.instagram.com/androcoding/), [Youtube-@androcoding](https://www.youtube.com/channel/UCaDEFtaLo7SVQjizR31e2tg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: he
+- ⚡ Fun fact: I spends many hours on internet suffering.
+
+[![Twitter: androcoding](https://img.shields.io/twitter/follow/Nishusi46516120?style=social)](https://twitter.com/Nishusi46516120)
+[![GitHub androcoding](https://img.shields.io/github/followers/nishusingh71?label=follow&style=social)](https://github.com/nishusingh71)
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+
+<a href="https://github.com/nishusingh71">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishusingh71&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/nishusingh71">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=nishusingh71&show_icons=true&theme=light&line_height=27" alt="Nishu Singh github stats"/>
+</a>
