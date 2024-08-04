@@ -22,12 +22,9 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on Youtube Channel & personal Project.
-- 🌱 I’m currently learning Java,kotlin & Dart.
-- 👯 I’m looking to collaborate on Instagram & Youtube.
+- 🔭 I’m currently working on Ecommerce personal Project.
+- 🌱 I’m currently learning MERN.
 - 🤔 I’m looking for help with Sharing Projects with others.
-- 💬 Ask me about Android & Flutter.
-- 📫 How to reach me: [Instagram-@androcoding](https://www.instagram.com/androcoding/), [Youtube-@androcoding](https://www.youtube.com/channel/UCaDEFtaLo7SVQjizR31e2tg)
 
 - 😄 Pronouns: he
 - ⚡ Fun fact: I spends many hours on internet suffering.
